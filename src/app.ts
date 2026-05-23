@@ -127,7 +127,7 @@ app.get('/', (req: Request, res: Response) => {
             <header>
                 <div class="title-area">
                     <div>
-                        <h1>Gullak Expense Tracker API</h1>
+                        <h1>Expense Tracker API</h1>
                         <div class="developer">Developed by Surya Prakash Dwivedi</div>
                     </div>
                 </div>
