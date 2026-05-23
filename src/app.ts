@@ -30,7 +30,7 @@ app.get('/', (req: Request, res: Response) => {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Gullak Expense Tracker API Gateway</title>
+        <title>Expense Tracker API Gateway</title>
         <style>
             :root {
                 --bg: #0d1117;
